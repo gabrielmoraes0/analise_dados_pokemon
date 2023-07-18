@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Análise de Dados pokemon</h1>
+<h1>Análise de Dados Pokémon</h1>
 
 <p>Este Projeto é um código para análise de dados, que tem como objetivo processar e mostrar gráficos a partir de uma base de dados. O Código foi desenvolvido em Python e utiliza algumas bibliotecas para manipular e visualizar os dados, tais como Pandas, NumPy e Matplotlib.</p>
 
@@ -24,7 +24,7 @@
 
 <p>O Código para se retirar 100% da análise feita, ele precisa que os arquivos poke.py, pizza_geracao.py, media_atributos.py, grafico_elemento.py, grafico_ataque.py, além do arquivo Pokemon.csv estejam no mesmo diretório.</p>
 
-<!-- Continuação do código omitida por brevidade -->
+
 
 </body>
 </html>
